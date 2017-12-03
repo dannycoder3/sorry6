@@ -1,0 +1,124 @@
+@font-face{
+	src:url(../fonts/Quicksand-Light.ttf);
+	font-family: Daniel St sanserif;
+
+}
+h1,h2,h3,h4,h5,h6,p,input,a{
+	font-family: Daniel St sanserif !important;
+
+	}
+#cure{
+	
+	background: linear-gradient(rgba(0,0,0,0.43),rgba(0,0,0,0.43)),url(../img/course06.jpg);
+	height: 500px;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #FFF;
+	width: 100%;
+	background-position: center;
+	
+}
+.enter{
+	color: red;
+}
+.container{
+	background-image: url(../img/less
+.fowl{
+	font-size: 60px;
+}.jpg);
+}
+.cow {
+	letter-spacing: 3px;
+	text-align: left;
+	font-weight:900;
+	font-size: 30px;
+}
+.no{
+	text-align: center;
+	margin-bottom: 59px;
+	font-weight:100px;
+}
+.img-circle{
+	margin-bottom: 30px;
+	width:;
+}
+.Way:hover{
+	color: red !important;
+	border-radius:50%;
+
+
+}
+.Way:focus{
+	background-color: blue !important;
+}
+.Way:active{
+	background: yellow !important;
+}
+
+.Way{
+	transition: all .2s ease;
+	padding: 7px 50px; 
+	animation-name: danny;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+	animation-direction: alternate;
+}
+@keyframes danny{
+	0%{margin-top: -5%; background: brown !important;}
+	50%{margin-left: 15%; background: indigo !important;}
+	100%{margin-bottom: 12%; background: white !important;}
+}
+
+.make{
+	text-align: center;
+	margin-top: 30px;
+}
+.img-expl{
+	/*animation-name: swioaaaaaasa;
+	border-radius: 50% !important;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;*/
+	/*animation-direction: alternate;*/
+	transform: skew(-23deg);
+}
+.skewd{
+	transform: skew(-53deg);
+	height: 2px;
+	width: 20%;
+	background-color: red;
+
+}
+@keyframes swioaaaaaasa{
+	0%{transform:scale(0.4); }
+	100%{transform: scale(1.1);}
+}
+.O{
+	color: red;
+}
+.navbar-default{
+	background-color: black;
+}
+.img-circle {
+    border-radius: 50px;
+    height: 100px;
+}
+.img-expl{
+	animation: wound;
+	animation-duration: 2s;
+
+}
+@keyframes wound{
+	from{margin-left:50px;}
+} 	to{ margin-right: 50px; }
+.well{
+	background-color: black;
+}
+img {
+    vertical-align: middle;
+    width: 100px;
+    margin-bottom: 23px;
+    height: 100px;
+    border-radius: 50px;
+}

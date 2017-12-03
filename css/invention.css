@@ -1,0 +1,17 @@
+@font-face{
+	src:url(../fonts/Quicksand-Light.ttf);
+	font-family: Daniel St sanserif;
+}
+h1,h2,h3,h4,h5,h6,p,input,a{
+	font-family: Daniel St sanserif !important;
+}
+#main{
+	background: linear-gradient(rgba(0,0,0,0.43),rgba(0,0,0,0.43)),url(../img/11.jpg);
+	height: 500px;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #FFF;
+	width: 100%;
+}

@@ -1,0 +1,47 @@
+@font-face{
+	src:url(../fonts/Quicksand-Light.ttf);
+	font-family: Wonderful st serief;
+}
+h1,h2,h3,h4 ,h5 ,h6 ,p ,input {
+	font-family: Wonderful st serief;
+} 
+.mint{
+	color: red;
+
+}
+.navbar-default{
+	background-color: black;
+	border-color: red;
+}
+#main{
+	background:url(../img/caffeine.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+.font{
+	font-size: 50px;
+	color: white;
+
+}
+.btnbtn-warning{
+	position: right;
+}
+.navbar-brand{
+	color: white !important;
+}
+.min{
+	color: white;
+}
+.yut:hover{
+	border: red !important 1px 50px 1px 50px;  
+	margin-top: 9px;
+}
+.yut{
+	transition: all 1.0s ease;
+	padding: 1px 30px
+}
+.yut:active{
+	background-color: black!important;
+}
